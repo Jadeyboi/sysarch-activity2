@@ -3,7 +3,7 @@ function Footer () {
      return(
 
         <footer> 
-            <p> &copy; {new Date().getFullYear()} Jade Cordero test</p>
+            <p> &copy; {new Date().getFullYear()} Jade Cordero</p>
         </footer>
      );
 
