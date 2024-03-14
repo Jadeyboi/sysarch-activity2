@@ -11,7 +11,7 @@ function Header () {
                     <li><a href="#">Home</a></li>
                     <li><a href="#">About</a></li>
                     <li><a href="#">Services</a></li>
-                    <li><a href="#"></a>Contact</li>
+                    <li><a href="#">Contact</a></li>
                 </ul>
                 
             </nav>
